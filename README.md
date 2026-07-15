@@ -29,7 +29,7 @@ A PowerShell script that tracks mouse cursor movement in real time, calculates t
 ```powershell
 .\MouseDistanceTracker.ps1 -GUI -DPI 144
 ```
-<img width="636" height="543" alt="image" src="https://github.com/user-attachments/assets/36966256-be9b-4e91-9bb4-eac5a57d127e" />
+<img width="636" height="828" alt="image" src="https://github.com/user-attachments/assets/082fcfd8-72b6-49e2-b4e9-cf0916a662a0" />
 
 ### Console mode — runs until Ctrl+C
 
